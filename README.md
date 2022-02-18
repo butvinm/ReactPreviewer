@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.svg" alt="Python GUIs for Humans" height="100px">
+  <img src="ReactPreviewer/icon.svg" alt="Simple browser previewer for ReactNative" height="100px">
   <h1 align="center">React Previewer</h1>
 </p>
 
@@ -30,8 +30,8 @@ So, you can:
 	If border or/and fringe enabled rounded borders and fringe images stack on page:
 </h3>
 <p>
-	<img src="screenshot1.png" width="30%" style="margin-right: 100px;"/>
-	<img src="screenshot2.png" width="30%"/>
+	<img src="screenshot1.png" width="30%" style="display: inline-block; margin-left: 10%"/>
+	<img src="screenshot2.png" width="30%" style="display: inline-block; margin-left: 10%"/>
 </p>
 
 # Compilation instruction
